@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Resmodulator</string>
+    <string name="slogan">Enjoy efficient food ordering services with the Resmodulator!</string>
+    <string name="title_activity_home">Home</string>
+
+
+    <string name="orders">orders</string>
+    <string name="cart">cart</string>
+    <string name="tables">Tables</string>
+    <string name="profile">Profile</string>
+    <string name="payments">Payments</string>
+    <string name="log_out">Log Out</string>
+    <string name="menu_home">menu</string>
+</resources>
